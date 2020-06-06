@@ -4,4 +4,4 @@ ARKit and CoreML fun
 
 https://ngrp.github.io/FabriqueMobile/ARKit-and-CoreML-fun/
 
-![result](https://i.imgur.com/Isgc3HA.mp4)
+![https://media1.giphy.com/media/S9zEySrfdljXUCTjtB/giphy.gif)
